@@ -9,4 +9,5 @@
 * This data could be for politicians, economists, doctors, or people interested in learning more about the changes in health care costs throughout the years.
 
 ### Where is this data from?
-* This data was provided by Profesor Gotzler. It is titled County Public Health Data. The raw data can be accessed [here]()
+* This data was provided by Profesor Gotzler. It is titled County Public Health Data. The raw data can be accessed [here](https://github.com/rawalker25/Arizona-Health-Care-Data/blob/main/CountyHealthData_2014-2015.csv)
+
