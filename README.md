@@ -12,7 +12,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ### Where is this data from?
-* This data was provided by Profesor Gotzler. It is titled County Public Health Data. The raw data can be accessed [here.](https://github.com/rawalker25/Arizona-Health-Care-Data/blob/main/CountyHealthData_2014-2015.csv)
+* This data was provided by Profesor Gotzler for his English Class. It is titled County Public Health Data. The raw data can be accessed [here.](https://github.com/rawalker25/Arizona-Health-Care-Data/blob/main/CountyHealthData_2014-2015.csv)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ### What could this data be used for?
